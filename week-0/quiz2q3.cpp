@@ -1,3 +1,5 @@
+//circular ball throws question 
+
 /*#include<bits/stdc++.h>
 using namespace std;
 
